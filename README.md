@@ -2,7 +2,7 @@
 
 <br>
 
-> SGI 아카데미 DirectX Rendering Pipeline Practice 사진 출력하기
+> SGI 아카데미 DirectX Rendering Pipeline Practice 사진 출력하기  
 **VS 2017 기준으로 제작하였음**
 
 * 버텍스, 인덱스 버퍼, 인덱스 레이아웃 만들어 IA State 제작
